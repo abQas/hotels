@@ -1,0 +1,2 @@
+# hotels
+besthotels in morocco
